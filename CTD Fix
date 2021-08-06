@@ -1,0 +1,10 @@
+First open up your file explorer.
+Second open up the disk drive that your Windows OS is installed on (Usually your boot drive, also noted as:) C:
+Find your 'Users' file, and open it.
+Open your username associated with the profile you log into your desktop with.
+Find "Documents" and open it.
+Find the 'DayZ' Folder, right click it, and delete the ENTIRE folder.
+
+Relaunch DayZ through steam, it'll ask to sync files with cloud, sync with cloud DO NOT UPLOAD TO CLOUD, make sure the launcher opens, you are good to launch the game.
+
+If you use DZSALauncher, close the vanilla launcher ajnd open DZSA, find the server, and LOAD it, once the game is loaded and you are at the main menu, join the server!
